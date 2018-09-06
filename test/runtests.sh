@@ -39,3 +39,4 @@ then
 else
     echo "Test result: FAILED"
 fi
+#add pause to see on terminal
